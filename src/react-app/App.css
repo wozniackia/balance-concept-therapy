@@ -15,6 +15,11 @@
   padding: 0;
 }
 
+.logo {
+  height: 25em;
+  padding: 0;
+}
+
 .instrument-serif-regular {
   font-family: "Instrument Serif", serif;
   font-weight: 400;

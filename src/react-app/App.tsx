@@ -12,7 +12,7 @@ function App() {
         {/*<img src={balanceLogoNapis} className="logo-napis" alt="Balance Concept" />*/}
         {/*<br/>*/}
         {/*<img src={balanceLogoLudek} className="logo-ludek" alt="Logo Balance Concept" />*/}
-        <img src={balanceLogo} className="logo-napis" alt="Balance Concept" />
+        <img src={balanceLogo} className="logo" alt="Balance Concept" />
         <p className="copyright">© 2025 Balance Concept.</p>
       </div>
     </>
