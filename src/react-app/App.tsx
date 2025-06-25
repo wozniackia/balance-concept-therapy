@@ -1,6 +1,7 @@
 // src/App.tsx
 
 import { useState } from "react";
+import balanceLogo from "/balanceLogo.svg"
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import cloudflareLogo from "./assets/Cloudflare_Logo.svg";
@@ -14,6 +15,9 @@ function App() {
   return (
     <>
       <div>
+        <a href="https://balance-concept.pl/" target="_blank">
+          <img src={balanceLogo} className="logo" alt="Balance logo" />
+        </a>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
