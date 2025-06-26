@@ -5,6 +5,6 @@
     "types": ["vite/client", "./worker-configuration.d.ts"]
   },
   "include": [
-      "balance-concept/src/worker"
+      "balance-concept-pilates/src/worker"
   ]
 }

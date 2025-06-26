@@ -23,6 +23,6 @@
     "noUncheckedSideEffectImports": true
   },
   "include": [
-      "balance-concept/src/react-app"
+      "balance-concept-pilates/src/react-app"
   ]
 }
