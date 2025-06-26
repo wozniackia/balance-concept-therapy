@@ -9,13 +9,10 @@ function App() {
     <>
       <div>
         <img src={balanceLogoNapis} className="logo-napis" alt="Balance Concept" />
-        <br/>
+        <h1>Therapy</h1>
         <img src={balanceLogoLudek} className="logo-ludek" alt="Logo Balance Concept" />
         <p className="copyright">© 2025 Balance Concept.</p>
       </div>
-      <a href="">Therapy</a>
-      <a href="">Pilates</a>
-      <a href="">Cosmetology</a>
     </>
   );
 }
